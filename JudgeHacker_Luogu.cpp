@@ -1,5 +1,3 @@
-// Best AK Automata v2.1 in Luogu (BAKA)
-
 #define LUOGU 1
 
 #include <cstdlib>
